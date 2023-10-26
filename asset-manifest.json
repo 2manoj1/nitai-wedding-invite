@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/Nitai-invite-u/static/css/main.35f9b3f0.css",
-    "main.js": "/Nitai-invite-u/static/js/main.eb89ab5f.js",
-    "static/media/ap.png": "/Nitai-invite-u/static/media/ap.4367eaa137a3e8c04a46.png",
-    "static/media/slider-1-1600x900.jpg": "/Nitai-invite-u/static/media/slider-1-1600x900.6d49bf4d73364cfeb9ae.jpg",
-    "static/media/groom.jpeg": "/Nitai-invite-u/static/media/groom.78ecc9b5e979d2b71907.jpeg",
-    "static/media/counter-1-1600x600.jpg": "/Nitai-invite-u/static/media/counter-1-1600x600.49c7d06d243a7c95222c.jpg",
-    "static/media/w22.png": "/Nitai-invite-u/static/media/w22.a93129e79ba00100cc9b.png",
-    "static/media/brideback.jpg": "/Nitai-invite-u/static/media/brideback.e80a60bee54895ac18ce.jpg",
-    "static/media/bride.jpeg": "/Nitai-invite-u/static/media/bride.9983259535d9efad4b86.jpeg",
-    "static/media/a123.png": "/Nitai-invite-u/static/media/a123.0681ac0cd97ebb17bf7b.png",
-    "static/media/logo-white.png": "/Nitai-invite-u/static/media/logo-white.e01794a8082b680a9c4f.png",
-    "static/media/webzed-font-1.svg": "/Nitai-invite-u/static/media/webzed-font-1.487b251aaacc77e3e18c.svg",
-    "static/media/Background_Circle.png": "/Nitai-invite-u/static/media/Background_Circle.c7dd84a1d422e8f23e93.png",
-    "static/media/w.png": "/Nitai-invite-u/static/media/w.72b5a2b1ff23e143df62.png",
-    "static/media/webzed-font-1.eot": "/Nitai-invite-u/static/media/webzed-font-1.bdb465a9d6648defd0b4.eot",
-    "static/media/webzed-font-1.ttf": "/Nitai-invite-u/static/media/webzed-font-1.7f3ce7c026a4ac0f99ec.ttf",
-    "static/media/webzed-font-1.woff": "/Nitai-invite-u/static/media/webzed-font-1.d1595007862c0851fa30.woff",
-    "index.html": "/Nitai-invite-u/index.html",
-    "main.35f9b3f0.css.map": "/Nitai-invite-u/static/css/main.35f9b3f0.css.map",
-    "main.eb89ab5f.js.map": "/Nitai-invite-u/static/js/main.eb89ab5f.js.map"
+    "main.css": "/nitai-wedding-invite/static/css/main.7d7a8051.css",
+    "main.js": "/nitai-wedding-invite/static/js/main.6d1f2863.js",
+    "static/media/ap.png": "/nitai-wedding-invite/static/media/ap.4367eaa137a3e8c04a46.png",
+    "static/media/slider-1-1600x900.jpg": "/nitai-wedding-invite/static/media/slider-1-1600x900.6d49bf4d73364cfeb9ae.jpg",
+    "static/media/groom.jpeg": "/nitai-wedding-invite/static/media/groom.78ecc9b5e979d2b71907.jpeg",
+    "static/media/counter-1-1600x600.jpg": "/nitai-wedding-invite/static/media/counter-1-1600x600.49c7d06d243a7c95222c.jpg",
+    "static/media/w22.png": "/nitai-wedding-invite/static/media/w22.a93129e79ba00100cc9b.png",
+    "static/media/brideback.jpg": "/nitai-wedding-invite/static/media/brideback.e80a60bee54895ac18ce.jpg",
+    "static/media/bride.jpeg": "/nitai-wedding-invite/static/media/bride.9983259535d9efad4b86.jpeg",
+    "static/media/a123.png": "/nitai-wedding-invite/static/media/a123.0681ac0cd97ebb17bf7b.png",
+    "static/media/logo-white.png": "/nitai-wedding-invite/static/media/logo-white.e01794a8082b680a9c4f.png",
+    "static/media/webzed-font-1.svg": "/nitai-wedding-invite/static/media/webzed-font-1.487b251aaacc77e3e18c.svg",
+    "static/media/Background_Circle.png": "/nitai-wedding-invite/static/media/Background_Circle.c7dd84a1d422e8f23e93.png",
+    "static/media/w.png": "/nitai-wedding-invite/static/media/w.72b5a2b1ff23e143df62.png",
+    "static/media/webzed-font-1.eot": "/nitai-wedding-invite/static/media/webzed-font-1.bdb465a9d6648defd0b4.eot",
+    "static/media/webzed-font-1.ttf": "/nitai-wedding-invite/static/media/webzed-font-1.7f3ce7c026a4ac0f99ec.ttf",
+    "static/media/webzed-font-1.woff": "/nitai-wedding-invite/static/media/webzed-font-1.d1595007862c0851fa30.woff",
+    "index.html": "/nitai-wedding-invite/index.html",
+    "main.7d7a8051.css.map": "/nitai-wedding-invite/static/css/main.7d7a8051.css.map",
+    "main.6d1f2863.js.map": "/nitai-wedding-invite/static/js/main.6d1f2863.js.map"
   },
   "entrypoints": [
-    "static/css/main.35f9b3f0.css",
-    "static/js/main.eb89ab5f.js"
+    "static/css/main.7d7a8051.css",
+    "static/js/main.6d1f2863.js"
   ]
 }
