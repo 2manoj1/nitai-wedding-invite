@@ -2,7 +2,7 @@
 	"name": "client",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://2manoj1.github.io/Nitai-invite-u",
+	"homepage": "https://2manoj1.github.io/nitai-wedding-invite",
 	"dependencies": {
 		"gh-pages": "^6.0.0",
 		"react": "^18.2.0",
@@ -11,7 +11,7 @@
 	},
 	"scripts": {
 		"start": "react-scripts start --openssl-legacy-provider",
-		"build": "react-scripts build",
+		"build": "react-scripts build --openssl-legacy-provider",
 		"predeploy": "npm run build",
 		"deploy": "gh-pages -d build",
 		"test": "react-scripts test",
